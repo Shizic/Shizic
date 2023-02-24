@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kyleshizic@gmail.com**
 
-- 👨‍💻 I can also [develop bots / discord servers](develop bots / discord servers)
+- 👨‍💻 I can also [develop bots / discord servers]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
