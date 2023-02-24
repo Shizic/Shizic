@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyle Shizic</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<img align="right" alt="Winner" width="400" src"https://img1.freepng.fr/20180301/eee/kisspng-ribbon-award-red-hibiscus-medal-winners-5a9851554587b8.2367560015199317332848.jpg"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizic&label=Profile%20views&color=0e75b6&style=flat" alt="shizic" /> </p>
 
 - 🌱 I’m currently learning **React JS**
