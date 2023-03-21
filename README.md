@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- ⚽ I regularly write football arguments on [https://twitter.com/KShizic](https://twitter.com/KShizic)
-
 - 📫 How to reach me **kyleshizic@gmail.com**
 
 - 👨‍💻 I can also [develop bots / discord servers]
